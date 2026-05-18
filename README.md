@@ -1,4 +1,4 @@
-# 🌱 FoodCast — AI Donation Forecasting Platform
+#  FoodCast — AI Donation Forecasting Platform
 
 > **Predict. Plan. Maximise Impact.**  
 > ML-powered forecasting for NGOs, CSR teams, fundraisers & religious organisations.
@@ -9,22 +9,22 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Page | Description |
 |------|-------------|
-| 🏠 **Landing Page** | Hero section with animated background, mission CTAs |
-| 📂 **Upload Dashboard** | CSV drag-and-drop, validation, KPI summary cards |
-| 📈 **Donation Forecast** | ARIMA / Prophet / XGBoost / LSTM with confidence intervals |
-| 👥 **Donor Analytics** | Churn prediction, retention forecast, regional breakdown |
-| 🎉 **Seasonal Insights** | Festival spike detection, ROI calendar, heatmap |
-| 🚨 **Drought Alert** | Z-score anomaly detection, red alerts, downloadable reports |
-| 🎯 **Campaign Predictor** | Random Forest success probability + recommendations |
-| 🏆 **Model Comparison** | RMSE / MAE / MAPE benchmarking + radar chart |
+|  **Landing Page** | Hero section with animated background, mission CTAs |
+|  **Upload Dashboard** | CSV drag-and-drop, validation, KPI summary cards |
+|  **Donation Forecast** | ARIMA / Prophet / XGBoost / LSTM with confidence intervals |
+|  **Donor Analytics** | Churn prediction, retention forecast, regional breakdown |
+|  **Seasonal Insights** | Festival spike detection, ROI calendar, heatmap |
+|  **Drought Alert** | Z-score anomaly detection, red alerts, downloadable reports |
+|  **Campaign Predictor** | Random Forest success probability + recommendations |
+|  **Model Comparison** | RMSE / MAE / MAPE benchmarking + radar chart |
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
@@ -48,7 +48,7 @@ Click **"Load Demo Data"** in the sidebar or on the landing page to explore with
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 foodcast/
@@ -79,7 +79,7 @@ foodcast/
 
 ---
 
-## 📊 CSV Format
+##  CSV Format
 
 Your donation CSV must include at minimum:
 
@@ -94,7 +94,7 @@ Your donation CSV must include at minimum:
 
 ---
 
-## 🤖 ML Models
+##  ML Models
 
 | Model | Purpose | Library |
 |-------|---------|---------|
@@ -108,7 +108,7 @@ All models in `predict.py` are modular — replace function bodies with your tra
 
 ---
 
-## 🌐 Deploy to Hugging Face Spaces
+##  Deploy to Hugging Face Spaces
 
 1. Create a new Space → **Streamlit** SDK
 2. Push this repo to the Space's git remote
@@ -132,7 +132,7 @@ pinned: false
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 - **Theme:** Dark mode glassmorphism
 - **Primary:** `#00C897` (teal-green)
